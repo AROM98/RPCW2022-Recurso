@@ -1,0 +1,67 @@
+[
+    {
+      "Fracao": "Loja",
+      "Permilagem": 50,
+      "Mensalidade": 6.06
+    },
+    {
+      "Fracao": "1Dto",
+      "Permilagem": 24,
+      "Mensalidade": 36.45
+    },
+    {
+      "Fracao": "1Esq",
+      "Permilagem": 34,
+      "Mensalidade": 51.63
+    },
+    {
+      "Fracao": "2Dto",
+      "Permilagem": 24,
+      "Mensalidade": 36.45
+    },
+    {
+      "Fracao": "3Dto",
+      "Permilagem": 24,
+      "Mensalidade": 36.45
+    },
+    {
+      "Fracao": "3Esq",
+      "Permilagem": 34,
+      "Mensalidade": 51.63
+    },
+    {
+      "Fracao": "4Dto",
+      "Permilagem": 24,
+      "Mensalidade": 36.45
+    },
+    {
+      "Fracao": "5Dto",
+      "Permilagem": 24,
+      "Mensalidade": 36.45
+    },
+    {
+      "Fracao": "5Esq",
+      "Permilagem": 34,
+      "Mensalidade": 51.63
+    },
+    {
+      "Fracao": "6Dto",
+      "Permilagem": 24,
+      "Mensalidade": 36.45
+    },
+    {
+      "Fracao": "7Dto",
+      "Permilagem": 24,
+      "Mensalidade": 36.45
+    },
+    {
+      "Fracao": "7Esq",
+      "Permilagem": 34,
+      "Mensalidade": 51.63
+    },
+    {
+      "Fracao": "8Dto",
+      "Permilagem": 24,
+      "Mensalidade": 36.45
+    }
+  ]

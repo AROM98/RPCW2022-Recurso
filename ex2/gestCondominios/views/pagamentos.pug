@@ -1,0 +1,35 @@
+extends layout
+
+block content
+    h1 Lista de Pagamentos
+    table
+        tr
+            th Fração
+            th Jan
+            th Fev
+            th Mar
+            th Abr
+            th Mai
+            th Jun
+            th Jul
+            th Ago
+            th Set
+            th Out
+            th Nov
+            th Dez
+        each p in pagamentos
+            tr 
+                td= p.Fracao
+                td= p.Jan
+                td= p.Fev
+                td= p.Mar
+                td= p.Abr
+                td= p.Mai
+                td= p.Jun
+                td= p.Jul
+                td= p.Ago
+                td= p.Set
+                td= p.Out
+                td= p.Nov
+                td= p.Dez
+            tr

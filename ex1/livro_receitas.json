@@ -1,0 +1,250 @@
+[
+    {
+      "Numero": "2020/001",
+      "Tipo": "Despesa",
+      "Data": "2020-01-04",
+      "Valor": 7.28,
+      "Entidade": "CGD",
+      "Descricao": "Manutenção da conta"
+    },
+    {
+      "Numero": "2020/002",
+      "Tipo": "Receita",
+      "Data": "2020-01-06",
+      "Valor": 64,
+      "Entidade": "7Esq",
+      "Descricao": "Janeiro"
+    },
+    {
+      "Numero": "2020/003",
+      "Tipo": "Receita",
+      "Data": "2020-01-06",
+      "Valor": 406.62,
+      "Entidade": "2Dto",
+      "Descricao": "Abril a Dezembro de 2019"
+    },
+    {
+      "Numero": "2020/004",
+      "Tipo": "Despesa",
+      "Data": "2020-01-08",
+      "Valor": 222.65,
+      "Entidade": "EDP",
+      "Descricao": "Luz"
+    },
+    {
+      "Numero": "2020/005",
+      "Tipo": "Receita",
+      "Data": "2020-01-16",
+      "Valor": 45.18,
+      "Entidade": "7Dto",
+      "Descricao": "Janeiro"
+    },
+    {
+      "Numero": "2020/006",
+      "Tipo": "Despesa",
+      "Data": "2020-02-01",
+      "Valor": 7.28,
+      "Entidade": "CGD",
+      "Descricao": "Manutenção da conta"
+    },
+    {
+      "Numero": "2020/007",
+      "Tipo": "Receita",
+      "Data": "2020-02-04",
+      "Valor": 64,
+      "Entidade": "5Esq",
+      "Descricao": "Fevereiro"
+    },
+    {
+      "Numero": "2020/008",
+      "Tipo": "Receita",
+      "Data": "2020-02-06",
+      "Valor": 64,
+      "Entidade": "7Esq",
+      "Descricao": "Fevereiro"
+    },
+    {
+      "Numero": "2020/009",
+      "Tipo": "Despesa",
+      "Data": "2020-01-20",
+      "Valor": 439.77,
+      "Entidade": "Kone",
+      "Descricao": "Manutenção dos elevadores: 1º trimestre"
+    },
+    {
+      "Numero": "2020/010",
+      "Tipo": "Receita",
+      "Data": "2020-02-12",
+      "Valor": 384,
+      "Entidade": "1Esq e 3Esq",
+      "Descricao": "Janeiro, Fevereiro e Março"
+    },
+    {
+      "Numero": "2020/011",
+      "Tipo": "Receita",
+      "Data": "2020-02-20",
+      "Valor": 45.18,
+      "Entidade": "7Dto",
+      "Descricao": "Fevereiro"
+    },
+    {
+      "Numero": "2020/012",
+      "Tipo": "Despesa",
+      "Data": "2020-02-24",
+      "Valor": 20,
+      "Entidade": "Serralheiro",
+      "Descricao": "Concerto do trinco da porta"
+    },
+    {
+      "Numero": "2020/013",
+      "Tipo": "Despesa",
+      "Data": "2020-02-24",
+      "Valor": 174.3,
+      "Entidade": "CMB",
+      "Descricao": "Inspeção dos elevadores"
+    },
+    {
+      "Numero": "2020/014",
+      "Tipo": "Receita",
+      "Data": "2020-02-24",
+      "Valor": 194.3,
+      "Entidade": "1Dto",
+      "Descricao": "Acertos: Janeiro, Fevereiro, Março, Abril e 13.58 de Maio"
+    },
+    {
+      "Numero": "2020/015",
+      "Tipo": "Receita",
+      "Data": "2020-03-11",
+      "Valor": 271.08,
+      "Entidade": "5Dto",
+      "Descricao": "Janeiro a Junho"
+    },
+    {
+      "Numero": "2020/016",
+      "Tipo": "Despesa",
+      "Data": "2020-03-11",
+      "Valor": 1655,
+      "Entidade": "PluriRapel",
+      "Descricao": "Reparação das fachadas"
+    },
+    {
+      "Numero": "2020/017",
+      "Tipo": "Receita",
+      "Data": "2020-02-26",
+      "Valor": 64,
+      "Entidade": "5Esq",
+      "Descricao": "Março"
+    },
+    {
+      "Numero": "2020/018",
+      "Tipo": "Receita",
+      "Data": "2020-02-29",
+      "Valor": 542.16,
+      "Entidade": "3Dto",
+      "Descricao": "Janeiro a Dezembro"
+    },
+    {
+      "Numero": "2020/019",
+      "Tipo": "Despesa",
+      "Data": "2020-03-04",
+      "Valor": 236.59,
+      "Entidade": "EDP",
+      "Descricao": "Luz"
+    },
+    {
+      "Numero": "2020/020",
+      "Tipo": "Receita",
+      "Data": "2020-03-06",
+      "Valor": 64,
+      "Entidade": "7Esq",
+      "Descricao": "Março"
+    },
+    {
+      "Numero": "2020/021",
+      "Tipo": "Despesa",
+      "Data": "2020-03-07",
+      "Valor": 7.28,
+      "Entidade": "CGD",
+      "Descricao": "Manutenção da conta"
+    },
+    {
+      "Numero": "2020/022",
+      "Tipo": "Receita",
+      "Data": "2020-03-15",
+      "Valor": 45.18,
+      "Entidade": "7Dto",
+      "Descricao": "Março"
+    },
+    {
+      "Numero": "2020/023",
+      "Tipo": "Receita",
+      "Data": "2020-03-30",
+      "Valor": 64,
+      "Entidade": "5Esq",
+      "Descricao": "Abril"
+    },
+    {
+      "Numero": "2020/024",
+      "Tipo": "Despesa",
+      "Data": "2020-04-04",
+      "Valor": 7.28,
+      "Entidade": "CGD",
+      "Descricao": "Manutenção da conta"
+    },
+    {
+      "Numero": "2020/025",
+      "Tipo": "Receita",
+      "Data": "2020-04-06",
+      "Valor": 64,
+      "Entidade": "7Esq",
+      "Descricao": "Abril"
+    },
+    {
+      "Numero": "2020/026",
+      "Tipo": "Receita",
+      "Data": "2020-04-07",
+      "Valor": 225.9,
+      "Entidade": "6Dto",
+      "Descricao": "Abril a Agosto"
+    },
+    {
+      "Numero": "2020/027",
+      "Tipo": "Receita",
+      "Data": "2020-04-14",
+      "Valor": 45.18,
+      "Entidade": "7Dto",
+      "Descricao": "Abril"
+    },
+    {
+      "Numero": "2020/028",
+      "Tipo": "Despesa",
+      "Data": "2020-04-15",
+      "Valor": 207.98,
+      "Entidade": "Vizinhos",
+      "Descricao": "Luz Comum"
+    },
+    {
+      "Numero": "2020/029",
+      "Tipo": "Despesa",
+      "Data": "2020-04-15",
+      "Valor": 1080,
+      "Entidade": "Limpeza",
+      "Descricao": "Limpeza 2020"
+    },
+    {
+      "Numero": "2020/030",
+      "Tipo": "Receita",
+      "Data": "2020-04-15",
+      "Valor": 542.16,
+      "Entidade": "4Dto",
+      "Descricao": "Janeiro a Dezembro"
+    },
+    {
+      "Numero": "2020/031",
+      "Tipo": "Despesa",
+      "Data": "2020-04-01",
+      "Valor": 439.77,
+      "Entidade": "Kone",
+      "Descricao": "Manutenção dos elevadores: 2º trimestre"
+    }
+  ]

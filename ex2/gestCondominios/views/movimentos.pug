@@ -1,0 +1,21 @@
+extends layout
+
+block content
+    h1 Lista de Movimentos
+    table
+        tr
+            th Número
+            th Tipo
+            th Data
+            th Valor
+            th Entidade 
+            th Descrição
+        each m in movimentos
+            tr 
+                td= m.Numero
+                td= m.Tipo
+                td= m.Data
+                td= m.Valor
+                td= m.Entidade
+                td= m.Descricao
+            tr
